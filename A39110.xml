@@ -1,0 +1,877 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extraordinary express sent from Pasquin at Rome, to all the princes and potentates of Europe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39110</idno>
+            <idno type="STC">Wing E3931A</idno>
+            <idno type="STC">ESTC R219788</idno>
+            <idno type="EEBO-CITATION">99831235</idno>
+            <idno type="PROQUEST">99831235</idno>
+            <idno type="VID">35698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35698)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extraordinary express sent from Pasquin at Rome, to all the princes and potentates of Europe.</title>
+               </titleStmt>
+               <extent>[8], 81, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Hills, and are to be sold by the book-sellers of London, and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped at head slightly affecting numbering.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35698:1" rendition="simple:additions"/>
+            <p>AN EXTRAORDINARY EXPRESS, Sent from PASQUIN AT ROME, To all the Princes and Potentates OF EUROPE.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Hills,</hi> and are to be ſold by the Book-Sellers of <hi>London,</hi> and <hi>Weſtminſter,</hi> 1690.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:35698:2"/>
+            <pb facs="tcp:35698:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>EUROPE</hi> hath ſudden<g ref="char:EOLhyphen"/>ly fallen in very great and dangerous Convul<g ref="char:EOLhyphen"/>ſions, which are known naturally to proceed either from a too violent commotion or diſper<g ref="char:EOLhyphen"/>ſing of the animal Spirits, or from an oppreſſion caus'd by fear; or laſtly, from the corruption of ſome gangreen'd member: Such hath been the miſerable condition of this part of the World in theſe later times, ever ſince it was attackt by all theſe Diſtempers
+<gap reason="missing" resp="#OXF" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:35698:3"/> at once; for we have ſeen ſeveral Princes and their chief Mini<g ref="char:EOLhyphen"/>ſters of State thrô a prodigious and incomprehenſible perturba<g ref="char:EOLhyphen"/>tion of ſpirit, ſeiz'd with an ab<g ref="char:EOLhyphen"/>ſtraction from their true intereſt, compelling them blindly to follow that of the King of <hi>France,</hi> to facilitate his Conqueſts, and to la<g ref="char:EOLhyphen"/>bour in promoting his Glory to the prejudice of their own. With how many fears hath Chriſtendom been terrifi'd during that inun<g ref="char:EOLhyphen"/>dation of the rapid Torrent of <g ref="char:V">Ʋ</g>ſurpation, which happen'd with<g ref="char:EOLhyphen"/>in theſe few years laſt paſt; when the thundring voice of the Am<g ref="char:EOLhyphen"/>baſſadors of <hi>Lewes XIV.</hi> was heard to roar in all the Soveraign Courts of <hi>Europe,</hi> who aſſum'd to themſelves no leſs a Quality than that of the Miniſters of another <hi>Jupiter,</hi> whil'ſt his Armies flew <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like lightning in divers
+<pb facs="tcp:35698:3"/> Places, and the Subjects of thoſe Princes were miſerably oppreſs'd that would not be engag'd in the intereſts of this Monarch, on purpoſe to make them an example to others, and by horrible Com<g ref="char:EOLhyphen"/>buſtions &amp; devaſtations to ſtrike a terrour into the minds of all thoſe that ſhould dare to refuſe to offer Incenſe to this new Deity on Earth ſtyl'd <hi>Dieu donné,</hi> even to this immortal Man, <hi>Viro immortali?</hi>
+            </p>
+            <p>As for the Corruption, it was almoſt <g ref="char:V">Ʋ</g>niverſal throughout all <hi>Europe;</hi> the Gangreen in ſome places had ſpread itſelf from the lower members even to the head, and mercenary Paraſites were employ'd in all the Courts; for time was, when to adhere to the intereſt of <hi>France,</hi> was to become <hi>à la mode,</hi> and others
+<pb facs="tcp:35698:4"/> were ridicul'd, and eſteem'd as dotards that knew not how to advance their Fortune. Laſtly, it may be affirm'd that the greateſt number greedily ſwal<g ref="char:EOLhyphen"/>low'd the <hi>Spiritus Gall.</hi> as water; burnt incenſe with a great deal of ſatisfaction to this Grand Idol; ran after this Golden <hi>Lewes;</hi> and by a ſtrange depravation had promoted their total ruin, and had deſperately caſt them<g ref="char:EOLhyphen"/>ſelves on the top of a dreadful precipice without any poſſibility of recovery, if Heaven had not commiſerated their condition, and unexpectedly ſnacht them from the danger by the miracu<g ref="char:EOLhyphen"/>lous revolution that happen'd as it were in the twinkling of an eye. None can be ignorant that this was the ſad and deplorable ſtate of Chriſtendom a little be<g ref="char:EOLhyphen"/>fore the year 1689. but ſince
+<pb facs="tcp:35698:4"/> that time the ſpirits being re<g ref="char:EOLhyphen"/>collected, all Terrour is expell'd, the Contagion is ſtopt, and a conſiderable part of the Gan<g ref="char:EOLhyphen"/>green'd Members being cut off, <hi>Europe</hi> hath recover'd a better air, more wholſom and more temperate, theſe thick and diſ<g ref="char:EOLhyphen"/>mal clouds having paſs'd away, and theſe menacing whirl-winds being altogether diſſipated; for King <hi>William</hi> foreſaw the Storm, and aſcending the Throne of Great <hi>Britain,</hi> ſoon diſpers'd theſe dark Foggs, and without fearing the Thunder, caus'd light to ſpring out of the gloomy Tempeſt: <hi>Se<g ref="char:EOLhyphen"/>quar per fulmina.</hi>
+            </p>
+            <p>Theſe remarkable contingences and ſo ſuddain an alteration excited a curioſity in all the Princes, to go and conſult the Oracle, to know what effects might
+<gap reason="missing" resp="#OXF" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:35698:5"/> the Oracle, where being arriv'd, the Prieſteſs <hi>Phoebas,</hi> to expreſs her reſpect to this old Gentle<g ref="char:EOLhyphen"/>man, gently lead him to the Shrine, and the good Father having reſted a while, approach'd in his ſlippers to the Sacred Den, and ſpake to this effect.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35698:5"/>
+            <head>AN EXTRAORDINARY EXPRESS, Sent from PASQUIN AT ROME, To all the Princes and Potentates OF EUROPE.</head>
+            <div n="1" type="section">
+               <head>I.</head>
+               <p>O thou ſuprem Deity that preſi<g ref="char:EOLhyphen"/>deſt in theſe lower Regions, after having rendred moſt hearty thanks for my promotion to the Popedom, I'm come to repreſent to you
+<pb n="2" facs="tcp:35698:6"/> with profound reſpect how much I am ſurprized, that during the time of my Predeceſſor, the Rights of the Holy See have been violated, the Sanctuary prophaned, the Papal authority threat<g ref="char:EOLhyphen"/>ned with rude aſſaults, by the Schiſm which the <hi>French</hi> have cauſed in the Church, the eldeſt Son thereof having lifted up his hand againſt his moſt Ho<g ref="char:EOLhyphen"/>ly Mother, and againſt our infallible Power; Nevertheleſs at a time when the Holy See had reaſon to fear theſe menaces, our Son is returned to his Father's Houſe, and we have ſeen him lying proſtrate at our feet, and with a great ſhew of repentance profeſsing to reſtore all that he had violently taken away, having aſſur'd us by his Ambaſſador of his entire ſubmiſſion to our Paternal correction, promiſing alwaies to maintain for the future a very good correſpondence with the Holy See, and as a teſtimony of the ſincerity of his intentions, to reſtore the City of <hi>Avignon</hi> and the whole County; to oblige all the Biſhops of his Kingdom that were preſent in the General Aſſembly of the Clergy in the
+<pb n="3" facs="tcp:35698:6"/> year 1682. to renounce the faith of that Conventicle; and to raſe out of the Regiſter of his Parliament all Acts derogatory from the Reverence, Ho<g ref="char:EOLhyphen"/>nour and Reſpect due to my Prede<g ref="char:EOLhyphen"/>ceſſor, provided that I would uſe my utmoſt endeavours to procure a Peace between him and the Catholic Princes. Being amazed at ſuch a ſuddain fit of repentance, I betook my ſelf to this place that I might be inform'd from your ſacred mouth of the cauſe of this great Revolution, and to whom I am beholding for this unexpected ad<g ref="char:EOLhyphen"/>vantage.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <p>When the Pope had made an end of ſpeaking, there was a great ſilence throughout the whole Temple, and the Oracle with a loud voice anſwer'd;</p>
+                     <sp>
+                        <p>William Rex.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+               <p>Afterwards all the Sacred Trumpets were hear'd to ſound in the Temple in like manner as at the gaining of a great Battel: The Pope being extre<g ref="char:EOLhyphen"/>mely ſurpriz'd at this anſwer could not forbear expreſſing his aſtoniſhment to the Prieſteſs that conducted him to
+<pb n="4" facs="tcp:35698:7"/> the Shrines; ſhe replied that the good Father ought not to wonder at this anſwer, ſince it belonged only to the Gods to unravel the moſt hidden my<g ref="char:EOLhyphen"/>ſteries; that mortal men ſhould know in proceſs of time the truth of that which at preſent appear'd obſcure, and that his Holineſs need only to make a ſerious reflection on what he had ſeen with his eyes this day. But <hi>Alexander</hi> VIII. having already been too forward in attributing theſe won<g ref="char:EOLhyphen"/>derful ſucceſſes to his own Politic contrivances, was not very well ſatis<g ref="char:EOLhyphen"/>fied; However, fearing leſt the an<g ref="char:EOLhyphen"/>ſwer of the Oracle might be divulg'd, he took no notice of any thing, not being willing that it ſhould be known to the World that he was oblig'd to an Heretical Prince for his repoſe. The good Father not being able to recollect himſelf from this conſterna<g ref="char:EOLhyphen"/>tion, was very deſirous to add a few words before he went out of the Tem<g ref="char:EOLhyphen"/>ple, but a ſuddain qualm that inſen<g ref="char:EOLhyphen"/>ſibly ſeiz'd on his ſpirits put an end to his Interrogatories.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="5" facs="tcp:35698:7"/>
+               <head>II.</head>
+               <p>As ſoon as the Pope was recover'd from his indiſpoſition, and whilſt his Holineſs's Humanity took a nap, his Nephews with the Princeſs <hi>Donna Maria,</hi> who very ſeldom leave him, and came to accompany him to the Temple, were very glad to lay hold on this oppertunity to conſult the Ora<g ref="char:EOLhyphen"/>cle; but there aroſe a great conteſt be<g ref="char:EOLhyphen"/>tween the Father, Prince <hi>Don Anto<g ref="char:EOLhyphen"/>nio Ottoboni</hi> and Cardinal <hi>Patron</hi> his Son: His Eminency inſiſted that he ought to have the precedency as being a Prince of the Church, fearing leſt in yielding it, he might incur the indignation of the Pope and of all the Cardinals his Collegues; inſomuch that there could be no means found out to decide this Controverſy, how<g ref="char:EOLhyphen"/>ever, <hi>Donna Maria,</hi> the Wife and Mother of the coatending parties thought that ſhe had invented an ex<g ref="char:EOLhyphen"/>pedient which ſhould not derogate from the Quality of a Father, nor from the Dignity of a Cardinal, by imitating the ordinary diſpoſition of
+<pb n="6" facs="tcp:35698:8"/> her Sex; whereupon ſhe propoſed that they ſhould ſpeak both together, being confident that the Deity would under<g ref="char:EOLhyphen"/>ſtand every thing that was propounded thô never ſo confus'dly; but this de<g ref="char:EOLhyphen"/>vice tended rather to laughter than an accommodation, and gave no ſa<g ref="char:EOLhyphen"/>tisfaction to either party, neither in<g ref="char:EOLhyphen"/>deed was it in any wiſe agreable to the reverence and reſpect due to ſo ſacred a place; at laſt, they unanimouſly re<g ref="char:EOLhyphen"/>ſolv'd to ſubmit to the Pope's deter<g ref="char:EOLhyphen"/>mination, who not being willing to overcharge his conſcience, refer'd the matter to a ſelect congregation of Cardinals that follow'd him; and whil'ſt theſe Judges of the <hi>Quorum</hi> were employ'd in hearing and parti<g ref="char:EOLhyphen"/>cularly examining the ſeveral preten<g ref="char:EOLhyphen"/>ſions of Cardinal <hi>Patron,</hi> who in a very large and eloquent Oration ex<g ref="char:EOLhyphen"/>preſs'd his zeal in defence of the rights of the Church: Prince <hi>Don Antonio</hi> being tyr'd with waiting, and ſoon perceiving that the Judges were fa<g ref="char:EOLhyphen"/>vourable to him, thought fit to play an <hi>Italian</hi> trick, and taking the ad<g ref="char:EOLhyphen"/>ventage of his Son's long ſpeech, ſtept
+<pb n="7" facs="tcp:35698:8"/> into the Temple and interrogated the Oracle, ſaying;</p>
+               <p>The Holy Father, my good Un<g ref="char:EOLhyphen"/>cle, being promoted to the Papal digni<g ref="char:EOLhyphen"/>ty in a ripe age, and having found the <hi>Nepotiſm</hi> or Pontifical Offspring extinct, hath by a very generous ef<g ref="char:EOLhyphen"/>fort wrought a miracle at his entring into the Church, by reviving it in fa<g ref="char:EOLhyphen"/>vour of my Family, which in a mo<g ref="char:EOLhyphen"/>ment appears laden with wealth and honour, inveſted with Principalities, dignities and authority, and abounding with great riches; but foraſmuch as Lay-men were heretofore prohibited by the Law from medling with any Sacred things, and the Goods of the Church are appropriated to pious and charitable uſes, I come to diſcharge my Conſcience, and to conſult thee to know whether it be lawful for us to enrich ourſelves with the treaſures of our Holy Mother, the Church, and freely to partake thereof during the life of our good Uncle, eſpecially ſince ſo fair an opportunity is offer'd at this Conjuncture.</p>
+               <pb n="8" facs="tcp:35698:9"/>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>When he that gives can abſolve, every thing is permitted.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="3" type="section">
+               <head>III.</head>
+               <p>His Eminency Cardinal <hi>Patron</hi> ha<g ref="char:EOLhyphen"/>ving finiſh'd his harangue, by which he thought he had well eſtabliſh'd his rights and privileges, departed in a great heat from the Congregation to cauſe Prince <hi>Antonio</hi> his Father to appear there; but he found that he had ſupplanted him, and was gone before. The Cardinal immediately making his proteſtation, went to the Temple, and ſaid;</p>
+               <p>Our Holy Father the Pope ad<g ref="char:EOLhyphen"/>vanc'd me in my youth to the Purple Robes under the name of Cardinal <hi>Patron,</hi> ever ſince which time I have been endow'd with abundance of wealth, and if his Holineſs ſhall con<g ref="char:EOLhyphen"/>tinue to live ſome years longer, I ſhall get up to the top of the pinnacle, and ſhall be in a fair way to become great and rich, ſince the Pope heaps up treaſures only to leave us in a happy condition after his death, and althô
+<pb n="9" facs="tcp:35698:9"/> it be done with the goods of the Church, nevertheleſs he is the diſ<g ref="char:EOLhyphen"/>penſer of them; for in aſmuch as he is infallible he cannot err, and he that abſolves others can alſo abſolve him<g ref="char:EOLhyphen"/>ſelf firſt, therefore without any ſcruple and with extended arms: I receive all that comes from the Pope's hands, who alone can make the reſt of my life happy; wherefore I'm come to know whether this bright ſtar ſhall ever at<g ref="char:EOLhyphen"/>tend upon me.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>No Man can be called happy before Death.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="4" type="section">
+               <head>IV.</head>
+               <p>The Prince <hi>Don Marco Ottoboni,</hi> who had joined hands with <hi>Donna Maria,</hi> thinking that it was his turn advanc'd, but the Princeſs cried out to him, <hi>Principe honore a la Signora, give place to the Lady:</hi> Wherupon <hi>Don Marco</hi> retiring made a very low obeiſance to the Lady, and let her en<g ref="char:EOLhyphen"/>ter into the Temple to be inform'd of what ſhe moſt deſir'd, and having entreated the Prieſteſs to place her in
+<pb n="10" facs="tcp:35698:10"/> a decent poſture, ſhe mutter'd certain Litanies with a low voice, and then ſaid:</p>
+               <p>O thou Deity! that filleſt this place with thy glory, foraſmuch as nothing is unknown to thee, I'm come to im<g ref="char:EOLhyphen"/>plore an anſwer from thy ſacred mouth, to know how many years the life of our good Uncle the Pope ſhall conti<g ref="char:EOLhyphen"/>nue, to the end that we may be able to purſue our advantage, and to ad<g ref="char:EOLhyphen"/>vance our fortunes by <hi>making hay while the Sun ſhines</hi> leſt the night of his Death overtake us ſooner than we ſhould deſire; For according to the Proverb <hi>Paſſato la Feſta, Gabbato il Santo.</hi> When the Feaſt is paſt, the Saint is mock't.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>The Fatal Siſters ſpin out thy deſti<g ref="char:EOLhyphen"/>ny as well as his concerning whom thou enquireſt; thy life as his depends only on one ſnip of the Goddeſs <hi>Clotho's</hi> Sizzers.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="5" type="section">
+               <head>V.</head>
+               <p>Afterwards the Prince <hi>Don Marco Ottoboni</hi> ſucceeded in her place, and made his addreſs to the Oracle.</p>
+               <pb n="11" facs="tcp:35698:10"/>
+               <p>The promotion of the Pope, my Uncle, hath been very advantageous to us, the lowneſs of my ſtature caus'd me to be but little regarded amongſt the Ladies, but ſince I am become the Nephew of a Pope, they enquire after me, and as little as I am, his Holineſs hath made choice of me to propagate the Family of the <hi>Ottoboni;</hi> but ſince I'm not one of the moſt vigorous, I'm come to conſult you to know whether I ſhall be ſo happy as to have any iſſue.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Pigliate la Giovanetta &amp; bella, <hi>that is to ſay,</hi> Take the young and the fair, and thou ſhalt have friends.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="6" type="section">
+               <head>VI.</head>
+               <p>The Emperor <hi>Leopoldus ſemper Au<g ref="char:EOLhyphen"/>guſtus,</hi> being inform'd that the Tem<g ref="char:EOLhyphen"/>ple of the Oracle was open: was glad of an opportunity to conſult it on oc<g ref="char:EOLhyphen"/>caſion of the two Wars, in which he is engag'd againſt his two moſt potent and moſt cruel enemies, to know the ſucceſs of which, his Imperial Majeſty ſpake thus:</p>
+               <pb n="12" facs="tcp:35698:11"/>
+               <p>The Conqueſts that I have obtain'd over the Infidels, and the fame of my Victories have procur'd me a ſecond War and a new enemy; for the King of <hi>France</hi> being jealous of the proſpe<g ref="char:EOLhyphen"/>rity of my Arms, hath join'd with the <hi>Turk,</hi> and declared War againſt me without a cauſe, to the end that he might compel me to divide my Forces, and to give my firſt enemy time and means to take reſpite, and with more eaſe to recover what he hath loſt, and that in weakening me, he might make uſe of this Conjuncture to ſatisfye the ambition which he hath alwaies had to ſeize on my Empire, and to cauſe the Imperial Crown to paſs into his family. But by the means of theſe violent proceedings he hath cooperated in the Election of my Son to be King of the <hi>Romans,</hi> who was thereupon conſtituted my Succeſſor; and I am ſo<g ref="char:EOLhyphen"/>far from being oppreſs'd, as this new enemy hop'd, that I find myſelf in a condition vigorouſly to oppoſe the aſ<g ref="char:EOLhyphen"/>ſaults of theſe two Potentates; and the Reverend Fathers the Jeſuits give me reaſon to hope that if I continue the
+<pb n="13" facs="tcp:35698:11"/> War againſt the Infidels, I ſhall be able to ſet up the Croſs in the City of <hi>Conſtantinople;</hi> but on the other hand, all my Allies repreſent to me the deva<g ref="char:EOLhyphen"/>ſtations and calamities that the <hi>French</hi> have caus'd in <hi>Germany,</hi> and that to conquer certain barren Lands in <hi>Bul<g ref="char:EOLhyphen"/>garia,</hi> ſeveral fair Provinces on the <hi>Rhine</hi> are ruin'd; What meaſures then are moſt expedient to be taken by me in ſuch an exigence, being urg'd on one ſide by the the deſire of deſtroy<g ref="char:EOLhyphen"/>ing the Infidels, and incited on the other by the cruelties and outragious combuſtions of the <hi>French.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Peace in the Eaſt, and ſuffer not thy ſelf to be ſeduc'd.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="7" type="section">
+               <head>VII.</head>
+               <p>The King of the <hi>Romans,</hi> having ac<g ref="char:EOLhyphen"/>companied the Emperor to the Tem<g ref="char:EOLhyphen"/>ple, his Imperial Majeſty advis'd him to conſult the Oracle, who ſaid:</p>
+               <p>I have been (contrary to the ex<g ref="char:EOLhyphen"/>pectation of the enemies of the Em<g ref="char:EOLhyphen"/>peror my Father) elected King of the <hi>Romans,</hi> and appointed Succeſſor of
+<pb n="14" facs="tcp:35698:12"/> the Empire in a time of trouble and in the midſt of War, and all the means that <hi>France</hi> hath us'd to avoid this blow, in favour of the <hi>Dauphin,</hi> could not hinder my Election from being made without any oppoſition; all the promiſes and efforts of my Competitor have prov'd vain and ineffectual; and the juſt reputation and good Reign of the Emperor my Lord and Father hath prevail'd over all the intrigues and artifices of the <hi>French</hi> Emiſſaries: This is ſuch a happineſs that I could not expect ſo ſoon, for which I'm come to render thanks to Heaven, as the principal cauſe, and to be inform'd of the ſecond.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>The Revolution of <hi>England:</hi> but eſ<g ref="char:EOLhyphen"/>pecially, become Caeſar, and not a Je<g ref="char:EOLhyphen"/>ſuit.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="8" type="section">
+               <head>VIII.</head>
+               <p>All the <hi>Electoral</hi> Princes having accompanied the Emperor and the King of the <hi>Romans,</hi> the Elector of <hi>Mentz</hi> advanc'd near the ſacred Den, and ſpake to this effect:</p>
+               <pb n="15" facs="tcp:35698:12"/>
+               <p>I have been tormented, and my Territories have been taken as a prey, relying to much on the illuſory pro<g ref="char:EOLhyphen"/>miſes that were made to me on behalf of the King of <hi>France:</hi> moreover, as an addition to my misfortunes, I found out the cheat only with the loſs of my Country, and receiv'd not a penny of all the money that was promis'd to me; and if the Emperor, at length, had not had more conſideration for me, than I had at the beginning, fi<g ref="char:EOLhyphen"/>delity to him, or regard to the welfare of the Empire (thô my Quality of Elector and Prince of the Empire obli<g ref="char:EOLhyphen"/>ged me thereto) I ſhould have utter<g ref="char:EOLhyphen"/>ly periſh'd: I ſtood on the brink of a dangerous precipice where my head began to turn, but thanks to his Im<g ref="char:EOLhyphen"/>perial Majeſty, who hath extended his gracious hand to me, and hath as it were ſnacht me out of the abyſs of deſtructions, wherein the Emiſſaries of <hi>France</hi> had almoſt plung'd me, con<g ref="char:EOLhyphen"/>trary to my own peculiar Intereſt. But foraſmuch as in adverſity and perils, we are moſt apt to reflect on our former errors and miſcarriages,
+<pb n="16" facs="tcp:35698:13"/> I'm come to make a ſolemn proteſta<g ref="char:EOLhyphen"/>tion in this Temple, that I will never depart from the true intereſt of the Empire, and that I am reſolv'd for the future either to overcome or to periſh together with it.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Offend no more leſt a worſe thing happen unto thee.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="9" type="section">
+               <head>IX.</head>
+               <p>The Elector of <hi>Triers,</hi> approach'd, and ſaid:</p>
+               <p>I have fought the good fight for the Empire, and have remained faith<g ref="char:EOLhyphen"/>ful to the Emperor; neither promiſes nor threats have been able to move me, nor to ſeparate me from the Em<g ref="char:EOLhyphen"/>pire, which is my true intereſt. I confeſs my Tertitories have ſuffer'd, but I take comfort in this, that it was for a good cauſe, and that I have per<g ref="char:EOLhyphen"/>ſever'd in all the parts of my duty and fidelity, and I patiently expect the deliverance of my Country by the hand of my Allies, and the conſola<g ref="char:EOLhyphen"/>tion of my People, that groan under the oppreſſion of the Uſurper.</p>
+               <pb n="17" facs="tcp:35698:13"/>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Deliverance attends the juſt, and Heaven it ſelf ſhall make a breach in the Royal mount, where thou art de<g ref="char:EOLhyphen"/>tain'd.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="10" type="section">
+               <head>X.</head>
+               <p>The Elector of <hi>Colen,</hi> not having obtain'd an oppertunity to conſult the Oracle ſince the death of his Uncle, was raviſh'd with joy at this, it being the firſt that happen'd ſince his ele<g ref="char:EOLhyphen"/>ction to the Electorate, and ſaid: The Negociation of my friends hath prevail'd over the pretenſions of the Coadjutor, that was choſen by the <hi>Chapter;</hi> and all the machinations of <hi>France</hi> are fruſtrated. Since my e<g ref="char:EOLhyphen"/>lection all the great deſigns of <hi>Lewis</hi> XIV. begin to fail, and the Crown of the King of the <hi>Romans</hi> hath prov'd only imaginary to the Dauphin his Son: My election hath ſerv'd as a bridle to reſtrain his ambition: <hi>Colen</hi> hath limited his conqueſts: <hi>Rhinberg, Keiſerwert</hi> and <hi>Bonne</hi> have been ſuch hard morſels that the Cardinal of <hi>Fur<g ref="char:EOLhyphen"/>ſtemberg</hi> could not digeſt them; not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="18" facs="tcp:35698:14"/> his taking a doſe of <hi>Spiri<g ref="char:EOLhyphen"/>tus Gall.</hi> he was oblig'd to diſgorge them at the firſt emetic potion given him by the Allies; not being any longer able to bear the Quality of Arch-Biſhop of <hi>Colen;</hi> however for his conſolation I conſent that he may pleaſe himſelf with that title during the War. Laſtly, my election hath been an eclipſe of this <hi>French</hi> Sun, that was about to ſet the whole World in a flame; but thanks be to my good Allies the States Gene<g ref="char:EOLhyphen"/>ral of the United Provinces, and to the care of his Highneſs the Prince of <hi>Orange,</hi> now King of Great <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> to whom my election hath ſerv'd as the firſt ſtep to aſcend the Throne. Thus am I now become the peaceable poſſeſſor of my Uncle's Arch-Biſhopric, who was indeed blinded by <hi>France</hi> to deprive the thereof, on the ſimple pro<g ref="char:EOLhyphen"/>miſe of the Cardinal to give me the Coadjutorſhip; But this was leaſt in the thoughts of <hi>Lewsi</hi> XIV. his in<g ref="char:EOLhyphen"/>tereſt obliging him to keep this Electo<g ref="char:EOLhyphen"/>rate in the hands of his Creatures; therefore it hath been preſerv'd by Divine Providence that extracts ſweet
+<pb n="19" facs="tcp:35698:14"/> out of bitter, and I may juſtly affirm that the treachery of <hi>France</hi> hath o<g ref="char:EOLhyphen"/>pen'd to me a paſſage into the Electo<g ref="char:EOLhyphen"/>rate. The People of my Jurisdiction paſſionately deſire my preſence, by rea<g ref="char:EOLhyphen"/>ſon of the Calamities in which many of them are now involv'd; but I comfort them rather at a diſtance, ſince during my minority I leave the Reve<g ref="char:EOLhyphen"/>nues to ſatisfye the debts of my Coun<g ref="char:EOLhyphen"/>trey. However, I hope that the War being ended the Pope will grant me a diſpenſation to exerciſe the Spiritual function, and then I ſhall go and take poſſeſſion of both at once. In the mean time what ought I to do for the good of my People and for that of Chriſtendom.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Never depart from the intereſt of thoſe that have aſſiſted to inveſt thee with the Electoral mantle.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="11" type="section">
+               <head>XI.</head>
+               <p>When the Eccleſiaſtical Electors had finiſh'd their addreſſes, the Ele<g ref="char:EOLhyphen"/>ctor of <hi>Bavaria</hi> (who had done ho<g ref="char:EOLhyphen"/>nour to the Robe) drew near, and ſaid:</p>
+               <pb n="20" facs="tcp:35698:15"/>
+               <p>Neither the promiſes of <hi>France,</hi> nor my Alliance with that Crown, nor even the life of the Dauphineſs, my dear Siſter, were able to draw me off from the intereſt of the Empire; The glory of vanquiſhing the Infidels hath often caus'd me to hazard my life for the defence of Chriſtendom: My zeal for the good cauſe aſwell as my valour hath attracted the envy of the mali<g ref="char:EOLhyphen"/>cious, but heaven hath thought fit that I ſhould ſurvive ſome of them, and I hope that Chriſtendom will recover by me what it hath loſt by my com<g ref="char:EOLhyphen"/>petitor. I will give a reaſon to <hi>Europe</hi> no longer to reſent the loſs of the brave Duke of <hi>Lorrain,</hi> and to <hi>France</hi> the marks of my juſt indignation: I will make it appear that the <hi>Bavarian</hi> blood ſtill flows in my veins, and I remember the ſcorn put on my Al<g ref="char:EOLhyphen"/>liance by their protection of the Car<g ref="char:EOLhyphen"/>dinal of <hi>Furſtemberg,</hi> and affronts that they have offer'd to the Dauphineſs ever ſince I reſus'd to enter into the <hi>French</hi> interoſts, and to become their King's Son in law.</p>
+               <pb n="21" facs="tcp:35698:15"/>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Thy glory may procure a Crown for thy family, if it be not prevented.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="12" type="section">
+               <head>XII.</head>
+               <p>The Elector of <hi>Brandenbourg,</hi> after having paid his laſt reſpects to the memory of the Elector his late Father, and having receiv'd the homage of his Subjects, came nigh the ſacred Den, and ſaid:</p>
+               <p>I ſhall endeavour not to diminiſh the reputation and glory that the E<g ref="char:EOLhyphen"/>lector my Father hath acquir'd in the World: The pipe through which the infectious poiſon of <hi>France</hi> paſs'd into my Countrey being cut off by the ſpe<g ref="char:EOLhyphen"/>cial favour of Heaven, I will hearken to no propoſition on that ſide, and ſhall alwaies embrace the common Cauſe: I will purge (if it be poſſi<g ref="char:EOLhyphen"/>ble) my Court from the <hi>French</hi> cor<g ref="char:EOLhyphen"/>ruption, and none of their Emiſſaries ſhall be admitted therein: I will fol<g ref="char:EOLhyphen"/>low the good counſels of the King of great <hi>Britain,</hi> my Kinſman and Ally; And if nature hath prov'd an unkind
+<pb n="22" facs="tcp:35698:16"/> Step-mother to me in ſome particulars; I will ſtrive to repair that loſs by a great and glorious name, and by the conſiderable Forces that I ſhall alwaies maintain; nevertheleſs my Artillery cannot march but on ſilver wheels: Moreover with the help of certain ſubſidies allow'd me by the Allies I ſhall eſſay to make myſelf formidable to my enemies; but without money the Machine cannot be mov'd.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Take heed leſt in milking the Cow too much, ſhe ſhould at laſt overturn the pail.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="13" type="section">
+               <head>XIII.</head>
+               <p>The Elector of <hi>Saxony,</hi> having re<g ref="char:EOLhyphen"/>ceiv'd but little ſatisfaction in his laſt Winter-quarters, and having delibe<g ref="char:EOLhyphen"/>rated in his Council what meaſures ought to be taken this Campagne, ſince the Emperor had already ack<g ref="char:EOLhyphen"/>nowledg'd the juſtice of his complaints, and had indemnifi'd him as to part of his pretenſions, was reſolv'd to cauſe his troops to march for the de<g ref="char:EOLhyphen"/>fenſe of the common cauſe, and to go
+<pb n="23" facs="tcp:35698:16"/> and declare his mind in the Temple, which he did after this manner:</p>
+               <p>As to my particular, I have enter'd into no engagement with <hi>France;</hi> but have adher'd to the common Cauſe of Europe, for the maintaining whereof I was only oblig'd to furniſh my <hi>quota</hi> in the Forces of the Empire, but at the perſwaſion of my Allies, I have exceeded this obligation; nevertheleſs, the <hi>French</hi> underſtanding that my ex<g ref="char:EOLhyphen"/>pectation was not anſwer'd; that no regard was had to my troops; and that I had carried on the War at my own charge, made great offers to me only to remain neuter; but I would not hearken to any of theſe Emiſſaries:</p>
+               <p>Therefore the King of <hi>France</hi> can ex<g ref="char:EOLhyphen"/>pect nothing but blows from me, pro<g ref="char:EOLhyphen"/>vided that my troops be treated after a better manner than formerly, other<g ref="char:EOLhyphen"/>wiſe I ſhall remayn neuter the next Campain, and nothing ſhall be able to excite me, nor to cauſe me to march, nor even ſo much as to perſwade me to any thing except—</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>William Rex.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="14" type="section">
+               <pb n="24" facs="tcp:35698:17"/>
+               <head>XIV.</head>
+               <p>The Elector <hi>Palatin</hi> came near, and ſaid:</p>
+               <p>Ever ſince my promotion to the E<g ref="char:EOLhyphen"/>lectorate I have been as it were a victi<g ref="char:EOLhyphen"/>me ſacrific'd for the ſafety of the Em<g ref="char:EOLhyphen"/>pire: my Countrey and People have been offer'd up to the rage and fury of the <hi>French;</hi> the King of <hi>France</hi> hath honour'd me ſo far as to ſet me in the rank of his greateſt enemies, and hath give an apparent teſtimony there<g ref="char:EOLhyphen"/>of to the World, by the conflagrations that he hath caus'd in the <hi>Palatinate;</hi> but Heaven cannot better avenge me of this cruel enemy, than by making the Queen of <hi>Spain,</hi> my Daughter fruitful, and by Crowning <hi>William</hi> III. King of Great <hi>Britain,</hi> with victorious Laurels, to the end that after the Con<g ref="char:EOLhyphen"/>queſt of <hi>Ireland,</hi> he may advance to the relief of the oppreſſed Princes, to compel mine enemy to retire within his own juſt bounds, and to reſtore peace to <hi>Europe</hi> that is harraſs'd with calamities on all ſides. But alaſs! when ſhall this happy time come?</p>
+               <pb n="25" facs="tcp:35698:17"/>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Thy Children ſhall enjoy this advan<g ref="char:EOLhyphen"/>tage.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="15" type="section">
+               <head>XV.</head>
+               <p>After the Emperor and the Princes of the Empire, <hi>William</hi> III. King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> Defendor of the Faith, <hi>&amp;c.</hi> carrying the ſecond Imperial Crown in <hi>Europe,</hi> came to the Temple to conſult the Oracle, concerning the important af<g ref="char:EOLhyphen"/>fairs, in which he is at preſent en<g ref="char:EOLhyphen"/>gag'd; all Chriſtendom having their eyes fix'd on him, as the deliverer of the afflicted, the hope of the oppreſs'd Princes, and the Reſtorer of <hi>Europe,</hi> which would have fallen into perpe<g ref="char:EOLhyphen"/>tual ſlavery if <hi>England</hi> had not broken its fetters: Being arriv'd at the ſacred Den, he ſaid:</p>
+               <p>The People of Great <hi>Britain</hi> have ſent for me for their deliverance: My Valour hath put the Scepter into my hands, and Heaven hath Crown'd me, after I had deliver'd the Nation from oppreſſion that march'd on with a ſwift pace, and from thoſe calami<g ref="char:EOLhyphen"/>ties
+<pb n="26" facs="tcp:35698:18"/> that hung over their heads <hi>Veni, vidi, vici, I came, I ſaw and I over<g ref="char:EOLhyphen"/>came;</hi> for the Agents whom the King of <hi>France</hi> employ'd to enſlave this Nation, and to bring it under the yoak of a deſpotic and arbitrary Power gave place at my approach. I was Anointed King as another <hi>David,</hi> in the room of my Father in Law, who choſe rather to abandon the King<g ref="char:EOLhyphen"/>dom, than to ſtand and juſtify the proceedings of his Reign, and the birth of his pretended Prince of <hi>Wales</hi> before a free Parliament, Lawfully conven'd without any ſiniſter courſes or corruption; thus he left to me the Kingdom and the Crown, and Heaven having deſign'd me for great and glo<g ref="char:EOLhyphen"/>rious enterprizes, hath not put the Royal Sword into my hands in vain; and thus as it were unto another <hi>Her<g ref="char:EOLhyphen"/>cules, Ireland</hi> becomes one of my la<g ref="char:EOLhyphen"/>bours; my Competitor is fled, and durſt not appear in the Battel before me, thinking it more expedient to ſave himſelf by flying to his dear Ally, than to run the hazard of another Combat, thô a King ought not to loſe
+<pb facs="tcp:35698:18"/> his Crown but with his life: but I had rather ſee him running away, than in my own poſſeſſion; his little courage is not capable of creating any fear of farther trouble on his behalf, and all the treaſons that he ſtirs up in my Kingdom, are but as ſo many va<g ref="char:EOLhyphen"/>pours coming from <hi>France,</hi> which are ſoon diſpers'd by my preſence: Seve<g ref="char:EOLhyphen"/>ral of my Subjects abuſe my generoſi<g ref="char:EOLhyphen"/>ty, but ſome of the Chief being pu<g ref="char:EOLhyphen"/>niſh'd, as an example to the reſt, ſhall make it appear that I know how to Reign, and that Juſtice and Mercy are the <hi>Baſis</hi> on which my Throne is e<g ref="char:EOLhyphen"/>rected. I am come to conſult the Ora<g ref="char:EOLhyphen"/>cle, that I may know to what ſide I ought to turn the force of my Arms.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Towards the Lion of the <hi>Gauliſh</hi> Fo<g ref="char:EOLhyphen"/>reſt, whoſe ſpoils ſhall ſerve as thy Trophy.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="16" type="section">
+               <head>XVI.</head>
+               <p>The Queen of Great <hi>Britain,</hi> having accompanied the King, her Royal Conſort to the Temple, had a mind alſo to be inform'd of future events;
+<pb facs="tcp:35698:19"/> and the Prieſteſs having render'd to her Majeſty, all the honours due to her Sex and Royal Perſon, ſhe ſpake thus:</p>
+               <p>I was born to Reign: The enemies of my glory are diſpers'd as the ſtreams of water, thoſe Owls the wicked Counſellors of my Father, have taken their flight at the approach of the King my Husband: Heaven hath fruſtrated their flagitious deſigns: truth hath triumph'd over falſhood: the counterfeit Heir hath follow'd his ſuppos'd Father and Mother, and Heaven hath ſecur'd for me the Crown of my Anceſtors, which a Mother in Law, with the aſſiſtance of her Owls, would have caus'd to paſs into ano<g ref="char:EOLhyphen"/>ther family: the King's valour hath preſerv'd my People from falling into this misfortune; but to make both them and me happy, there wants noth<g ref="char:EOLhyphen"/>ing but an heir to ſupport my Crown.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Heaven ſhall provide.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="17" type="section">
+               <pb n="29" facs="tcp:35698:19"/>
+               <head>XVII.</head>
+               <p>The King of <hi>Spain,</hi> having been a great while employ'd in ſolemnizing his ſecond Marriage, and in making preparations for the reception of his new Spouſe, and the Council having made ſeveral reſolutions and debates relating to determine to what place his Majeſty ſhould go; their Majeſties came both together to the Temple to conſult the Oracle, and the King ſpake firſt (as of right he ought) and ſaid:</p>
+               <p>Heaven hath deliver'd me from one that was a great friend and adherent to the King of <hi>France,</hi> who is the de<g ref="char:EOLhyphen"/>clar'd enemy of the Houſe of <hi>Auſtria.</hi> Marriages with <hi>France</hi> are ſo many gins and ſnares that are laid for me on that ſide; I have at laſt open'd my eyes thô ſomewhat late, and therefore I have diſpos'd of my Daughters on the ſide of <hi>Germany,</hi> and I hope that being no longer ſpy'd even in my very Bed-chamber, I ſhall ſoon find myſelf in a capacity to oppoſe my enemy, and to purſue him with the
+<pb n="30" facs="tcp:35698:20"/> aſſiſtance of my Allies. Moreover if the deceas'd Queen had not compell'd me to reſtore to the <hi>French,</hi> the money that was brought from my <hi>Indies,</hi> on their account for prohibited Goods, I ſhould have been furniſh'd with ready caſh to proſecute the War with ſuc<g ref="char:EOLhyphen"/>ceſs; my Wife, given to me by <hi>France,</hi> perſwaded me to do this act againſt the opinion of my Privy Coun<g ref="char:EOLhyphen"/>cil, but the buſineſs is done and there is no remedy. Wherefore I come to know whether I ſhall get the Victory over my enemies, now that I am within the armes of a Queen, who is oblig'd by her intereſt to aſſiſt me with her wholſome counſels for the advantage of the good Party.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Labour if thou canſt to get a Suc<g ref="char:EOLhyphen"/>ceſſor for thy Countrey, and that is the greateſt Victory that thou canſt gain over thy enemies.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="18" type="section">
+               <head>XVIII.</head>
+               <p>The new Queen young and vigorous approaching, ſpake thus with a gallant</p>
+               <pb n="31" facs="tcp:35698:20"/>
+               <p>To ſo many Kingdomes lately be<g ref="char:EOLhyphen"/>ſtow'd on my by Heaven, the addition of an Heir ſeems to be altogether ne<g ref="char:EOLhyphen"/>ceſſary, without which my preſent poſſeſſions and enjoyments can be eſteem'd but as lame and imperfect, ſince all at laſt muſt devolve upon a<g ref="char:EOLhyphen"/>nother Family. Therefore I am come to this place to know whether Heaven will vouchſafe to grant a Succeſſor to the King, my Husband; as for my part, I ſhall uſe all poſſible means, but—</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE anſwer'd, without permitting the Queen to proceed.</head>
+                     <sp>
+                        <p>The enterprize is great.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="19" type="section">
+               <head>XIX.</head>
+               <p>
+                  <hi>Lewes</hi> XIV. King of <hi>France</hi> and <hi>Navar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> being employ'd day and night in debating in his Council con<g ref="char:EOLhyphen"/>cerning the moſt effectual means to withſtand ſo many powerful enemies, that had declar'd War againſt him, could not well ſpare time to go and conſult the Oracle. However at laſt
+<pb n="32" facs="tcp:35698:21"/> he reſolved to ſet forward in his jour<g ref="char:EOLhyphen"/>ney; but being inform'd that King <hi>William</hi> intended to be there, and un<g ref="char:EOLhyphen"/>derſtanding that he walks in the mid'ſt of fire, and that he is even Canon-proof, he was not willing to meet him, wherefore he ſent <hi>Madame de Maintenon</hi> before, as a Scout, in the habit of a Friar, with a purſe full of <hi>Louys d'Ors,</hi> to obſerve the avenues, and to enquire of the Prieſteſs <hi>Pytho<g ref="char:EOLhyphen"/>niſſa</hi> what might happen; This faith<g ref="char:EOLhyphen"/>ful meſſinger being return'd, and ha<g ref="char:EOLhyphen"/>ving made a report to the King that the danger which he fear'd was paſt, his Majeſty had much ado to take up a reſolution, for fear of ſome trea<g ref="char:EOLhyphen"/>chery or ambuſcade: Nevertheleſs to prevent all diſaſters and for a greater precaution, he commanded all his Dragoons to ſerve as an Avant-guard, giving them orders to ſurround the Temple, and a ſtrict charge to keep a ſtrong guard at the Gate, during the time that he remain'd within; leſt he ſhould be taken away for a Saint. He took alſo along with him the moſt able Fathers among the Jeſuits, that
+<pb n="33" facs="tcp:35698:21"/> he might be preſerv'd by the merit of their holy Prayers: and for his Life<g ref="char:EOLhyphen"/>guard, the Ban and Arriere-Ban of the City of <hi>Paris,</hi> which the Marſhal <hi>de la Feuillade</hi> undertook to command, ſwearing by the Statue of the mighty Monarch erected in the <hi>Place des Vi<g ref="char:EOLhyphen"/>ctoires,</hi> that for his Maſters greater ſecu<g ref="char:EOLhyphen"/>rity, he would put all Strangers that he ſhould meet on the road to the edge of the Sword, and would carry fire and deſtruction whereſoever he paſs'd, for fear of an Ambuſh. Thus his moſt Chriſtian Majeſty being accom<g ref="char:EOLhyphen"/>panied with ſo valiant a Champion, enter'd into the Temple, but he was not able to forbear caſting an eye on all ſides for fear of a ſurprize: at laſt his ſpake very devoutly after this manner:</p>
+               <p>I thought that after I had extirpated all the Hugenots of my Kingdom, the Catholic Princes according to the e<g ref="char:EOLhyphen"/>xample of my Ally, the King of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> would have joyn'd with me and aſſiſted in ſubduing the <hi>Hollanders,</hi> and after them all the Heretical Po<g ref="char:EOLhyphen"/>tentates, that I might be able to eſta<g ref="char:EOLhyphen"/>bliſh
+<pb n="34" facs="tcp:35698:22"/> the Catholick Doctrine throughout all my Conqueſts, but very far from that, the whole World, Catholicks and Hugonots have combin'd together againſt me, and by a ſtrange revolu<g ref="char:EOLhyphen"/>tion, have ſuffer'd my only Ally to be driven from his Countrey by the Prince of <hi>Orange.</hi> Wherefore I have been conſtrain'd contrary to the Ca<g ref="char:EOLhyphen"/>tholick Faith, to enter into leagues for my own defence, with the Grand <hi>Signior</hi> and the Corſairs of <hi>Algier,</hi> and compell'd to engage at the <hi>Otto<g ref="char:EOLhyphen"/>man</hi> Port, to ſend the <hi>Dauphin</hi> with a great Army to the frontiers of <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> to haraſs the Emperor, and to give his Highneſs my Collegue, an opportunity by dividing the Forces of the Empire, to reſpite and to gather his Forces together, to invade <hi>Leopold;</hi> leſt the whole burden of the War ſhould fall on my ſhoulders. I flat<g ref="char:EOLhyphen"/>ter'd myſelf with the expectation of great ſuccours from <hi>Rome,</hi> after the general extirpation that I had cauſed of the Hugonots in my Kingdom, and the ſubmiſſions that I had made to the Holy See, ſince the exaltation of this
+<pb n="35" facs="tcp:35698:22"/> preſent Pope, who was pleas'd more over to promiſe that by his Paſtoral authority he would procure a recon<g ref="char:EOLhyphen"/>ciliation with the Catholick Princes, on the account of ſome ſmall reſtitution, to the end that I might be in a capa<g ref="char:EOLhyphen"/>city to oppoſe the Hugenot Potentates, to which effect I had bent my chiefeſt forces: nevertheleſs with an intent to reſtore all afterwards to the Catholicks, which I would have readily granted to them for the accommodation of my affairs: But the <hi>Venetian</hi> Policy is an impenetrable myſtery to my Miniſters of State, they bawl'd aloud at <hi>Rome,</hi> that the Prince of <hi>Orange,</hi> is an Uſur<g ref="char:EOLhyphen"/>per, and a more dangerous and formi<g ref="char:EOLhyphen"/>dable Heretick than <hi>Calvin</hi> himſelf, who advanc'd his Conqueſts only with the tongue and the pen, whereas this Prince makes uſe of his Sword; and that a remedy ought to be provided in time: but all my zeal for the Catho<g ref="char:EOLhyphen"/>lick Religion hath hitherto produc'd no effect, and it is alledg'd to me, that it is not a War maintain'd for the cauſe of Religion, but for that of Am<g ref="char:EOLhyphen"/>bition. In the mean time thou know'ſt
+<pb n="36" facs="tcp:35698:23"/> Oh Deity! that preſideſt in this Place, that I labour to reeſtabliſh the King of <hi>England</hi> on his Throne, and that I have almoſt exhauſted my treaſury to preſerve <hi>Ireland</hi> for him; but in<g ref="char:EOLhyphen"/>ſtead of a recompenſe, it hath been objected to me, that it is my own in<g ref="char:EOLhyphen"/>tereſt that obligeth me to act; and the Catholicks are ſo far from aſſiſting me with <hi>Croiſades,</hi> that they ſing <hi>Te Deum</hi> when the Hugenots are victo<g ref="char:EOLhyphen"/>rious; this cauſeth me often to deli<g ref="char:EOLhyphen"/>berate, whether I ought to recall the later into my Kingdom to enrage my Catholic enemies; but the miſchief is, they will give no credit to my word, nor I to their.</p>
+               <p>The Union of the Allies is more cloſely knit together than the <hi>Gordian</hi> Knot, and requires another <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> to untie it; but it is a Clock that always goes and never ſtrikes, it is a Lute on which ſome ſtrings are always jarring, or out of tune. I have devis'd an Expedient to defend my ſelf, and not to fear them, for I find them to be better Travellers than Soldiers; I hope, that if they always
+<pb n="37" facs="tcp:35698:23"/> March as they have begun, they will ſoon be ready to return into their Winter-quarters, and then I ſhall have no longer any cauſe of Fear on the ſide of <hi>Germany.</hi> My Couſin of <hi>Luxemburgh,</hi> who is as ſubtil as a Fox, hath promis'd to deceive the Prince of <hi>Waldeck</hi> once more. I have drain'd my Subjects and Churches of all their Money, be<g ref="char:EOLhyphen"/>cauſe I knew it is the ſinews of War, and with this familiar Spirit all things may be effected, with the help there<g ref="char:EOLhyphen"/>of I penetrate every where, even in<g ref="char:EOLhyphen"/>to the moſt ſecret Counſels, and it is my only Refuge, my Life-guard, and the beſt Ally that I have at this time: It often performs the function of a General, by gaining the Victo<g ref="char:EOLhyphen"/>ry for me, as well as that of an Ora<g ref="char:EOLhyphen"/>tor amongſt the Ladies, and by its Vertue I ſubdue many Obſtinate Ene<g ref="char:EOLhyphen"/>mies: But alas! it is my ſad misfor<g ref="char:EOLhyphen"/>tune, that this familiar Spirit could ne<g ref="char:EOLhyphen"/>ver tame the Prince of <hi>Orange,</hi> who is the Enemy that I moſt dread above all others, and I am very much a<g ref="char:EOLhyphen"/>fraid, leſt he ſhould have a powerful
+<pb n="38" facs="tcp:35698:24"/> party in my Kingdom, as he hath had in <hi>England;</hi> moreover, I have been aſſur'd, that he is Cannon-proof, and that he fears no danger; what courſe then ſhall I take to defend my ſelf againſt him?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Reſtore unto God and Men that which belongs to them, otherwiſe thou ſhalt drink the Juice of <hi>ORANGE.</hi>
+                        </p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="20" type="section">
+               <head>XX.</head>
+               <p>MADAM <hi>de Maintonon</hi> who had accompanied the King into the Temple, afterwards entreated the Prieſteſs to conduct her to a conveni<g ref="char:EOLhyphen"/>ent place, and to ſet her in a decent poſture, that ſhe might interrogate the Oracle, which being accordingly done, ſhe ſaid,</p>
+               <p>By the favour and aſſiſtance of the Reverend Father <hi>La Chaiſe,</hi> I have quieted my Conſcience, and ſecur'd my Honour, againſt all Obloquy and Slander; never any poor Lady in <hi>France</hi> aſcended to that high degree of Glory to which I have arriv'd,
+<pb n="39" facs="tcp:35698:24"/> only by my Intrigues: I have re<g ref="char:EOLhyphen"/>fus'd the chief Honours of the Court, but I have exercis'd in a manner all the functions of a Queen. I had a re<g ref="char:EOLhyphen"/>ſpect for Madam the late <hi>Dauphineſs,</hi> becauſe ſhe preceeded me at Court, but when another ſhall come, I do not intend to give her the ſame Ho<g ref="char:EOLhyphen"/>nour, or Deference, ſince I am at preſent the firſt in right: Shall it be ſaid, that I who have attain'd to ſo great Intimacy and Familiarity with the King and his Female Counſellors, ſhould give place to an upſtart; this I confeſs would be a very great vexati<g ref="char:EOLhyphen"/>on to me; therefore I come hither to conſult thee on this occaſion.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Women and Fruits have their Flowers and Seaſons.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="21" type="section">
+               <head>XXI.</head>
+               <p>WHEN the King was gone out of the Temple, the <hi>Dauphin</hi> ſucceed<g ref="char:EOLhyphen"/>ed in his place, and ſaid,</p>
+               <p>I fear, leſt being as yet <hi>Dauphin,</hi> I ſhould become greater than my Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="40" facs="tcp:35698:25"/> which is a thing without a pre<g ref="char:EOLhyphen"/>ſident in <hi>France,</hi> but Woe to him that is to be the firſt Example. Ma<g ref="char:EOLhyphen"/>dam the late <hi>Dauphineſs</hi> often re<g ref="char:EOLhyphen"/>proach'd me, by reaſon of the little ſhare that I had in managing the Af<g ref="char:EOLhyphen"/>fairs of the Kingdom, to whom it chiefly belong'd, and becauſe very often the pleaſure of a Miniſter of State hath prevail'd over mine; in<g ref="char:EOLhyphen"/>deed it is their Conduit through which I have frequently receiv'd favours from the King, who hath too much Ambition to ſuffer me to Rule during his Life, and (after the example of <hi>Charles</hi> the Fifth,) to put the Royal Authority into my hands: Tho' the People have much inclination to me ever ſince the Troubles in which they are involv'd; the Catholicks are de<g ref="char:EOLhyphen"/>ſirous of me, and the Hugenots wait for me with great Devotion, not<g ref="char:EOLhyphen"/>withſtanding that the <hi>Dauphineſs,</hi> (as many others were,) to make her ſelf to be regarded, was acceſſary in tor<g ref="char:EOLhyphen"/>menting them; but they are per<g ref="char:EOLhyphen"/>ſwaded, that I was not engag'd in cauſing the Vexations that were of<g ref="char:EOLhyphen"/>fer'd
+<pb n="41" facs="tcp:35698:25"/> to them, and that the good Pre<g ref="char:EOLhyphen"/>cepts of the Duke of <hi>Montauſier</hi> my Governour, were prevalent in me; neither indeed could I ever approve of all the violent proceedings that have been promoted with reſpect to them, becauſe I well fore-ſaw, that they would be attended by miſchievous Conſe<g ref="char:EOLhyphen"/>quences, and would partly kindle all thoſe Combuſtions that we ſee at this Day inflam'd in the Kingdom, which cannot but produce moſt dangerous effects. The King's Evil Council hath rais'd up this vaſt number of E<g ref="char:EOLhyphen"/>nemies with whom we are now to contend, and who are reſolv'd not to hearken to any Peace till <hi>France</hi> be abaſed, but it is my misfortune, that in this abaſement I ſhall find my own. The King will not give Ear to my Counſel, and perhaps when he ſhall have a mind to take my Advice, it may then be too late: He always thinks that he hath ſtrength enough to break thro' the multitude of his Ene<g ref="char:EOLhyphen"/>mies, and to make way for a favour<g ref="char:EOLhyphen"/>able Peace; but this account is very different from that of the Confede<g ref="char:EOLhyphen"/>rates,
+<pb n="42" facs="tcp:35698:26"/> who advance on all ſides to en<g ref="char:EOLhyphen"/>ter into <hi>France:</hi> Peradventure if I were Maſter, and ſhould make pro<g ref="char:EOLhyphen"/>poſitions to them, they would heark<g ref="char:EOLhyphen"/>en to me, but the King will never conſent to this till the laſt extremity. Therefore I come hither to know to which Party I ought to adhere, in caſe the Enemies ſhould invade the Kingdom.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>The Succeſs of the Campain of the Year 1691, ſhall ſhew it to thee.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="22" type="section">
+               <head>XXII.</head>
+               <p>THE Duke of <hi>Orleans</hi> tir'd with doing nothing, and vex'd to ſee himſelf rejected and deſpis'd, went to conſult the Oracle, ſaying,</p>
+               <p>I have always very well diſcharg'd my Truſt whenſoever the King hath thought fit to require my Service, witneſs the Battel and Taking of St. <hi>Omer,</hi> and altho' his Majeſty hath been pleas'd to expreſs the ſatisfaction he receiv'd from the Glory that I had there obtain'd; nevertheleſs I re<g ref="char:EOLhyphen"/>main
+<pb n="43" facs="tcp:35698:26"/> without Employment, and the King neither talks, nor takes no more notice of me, than if there were no ſuch Perſon in the World; Whence does this proceed?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>The King would not have his Acti<g ref="char:EOLhyphen"/>ons Eclips'd by thine, neither doth he deſire any other Glory but that which he acquires himſelf.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="23" type="section">
+               <head>XXIII.</head>
+               <p>THE King of <hi>Sweden</hi> having declar'd that he is very willing to aſ<g ref="char:EOLhyphen"/>ſiſt his Allies, but withal to keep a Neutrality with <hi>France,</hi> that he might thereby promote the Com<g ref="char:EOLhyphen"/>merce of his Subjects, whilſt the moſt part of other Nations were en<g ref="char:EOLhyphen"/>gag'd in a tedious War, went to con<g ref="char:EOLhyphen"/>ſult the Oracle, ſaying,</p>
+               <p>The King of <hi>France</hi> offers great advantages to hinder me from afford<g ref="char:EOLhyphen"/>ing any Supplies to the Confederates, and to induce me to ſtand Neuter: He hath propounded an Expedient to ſtop the Veſſels that I am oblig'd to
+<pb n="44" facs="tcp:35698:27"/> ſend to the <hi>Hollanders</hi> by vertue of a Treaty made with the States General, and if I have a mind to enter into <hi>Po<g ref="char:EOLhyphen"/>merania,</hi> he will not only pay all ar<g ref="char:EOLhyphen"/>rears and ſumm's of money due to me; but will alſo reſtore the Dutchy of <hi>Deux ponts,</hi> and defray the charge of the War; moreover, he promiſeth that the King of <hi>Denmark</hi> ſhall make no attempt upon my Countrey, but ſhall likewiſe remayn neuter on my account, and that we ſhall both enter into a Treaty of Commerce with <hi>France,</hi> and make a league together to oppoſe all that ſhall endeavour to incommode or diſturb us therein. Whereas on the one ſide I am allur'd by the advantage of Traffic; on the other, the treachery and ill uſage that I have receiv'd from <hi>France</hi> de<g ref="char:EOLhyphen"/>ters me: all theſe fair propoſitions being only the product of that ne<g ref="char:EOLhyphen"/>ceſſity with which he finds him<g ref="char:EOLhyphen"/>ſelf urg'd: what then ſhall I do?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Relye not on a reconcil'd enemy.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="24" type="section">
+               <pb n="45" facs="tcp:35698:27"/>
+               <head>XXIV.</head>
+               <p>The King of <hi>Denmark</hi> being ſolli<g ref="char:EOLhyphen"/>cited on the one ſide by the fair offers of <hi>France,</hi> and detain'd on the other by the intereſt of Prince <hi>George,</hi> who ſtands in need of King <hi>William</hi>'s aſ<g ref="char:EOLhyphen"/>ſiſtance to eſtabliſh the Crown in the Family; and knowing not what to determine to preſerve both, came to conſult the Oracle on this occaſion, ſaying:</p>
+               <p>The preſent offers of the King of <hi>France</hi> are fair and good, but they are not to be compar'd with the ad<g ref="char:EOLhyphen"/>vantages that will hereafter accrue to my Countrey, by a ſtrict union with <hi>England;</hi> for if the Princeſs of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> ſhould aſcend the Throne, there would be a great and indiſſoluble band of unity between <hi>England</hi> and my Dominions; beſides that the aſſu<g ref="char:EOLhyphen"/>rances which the King of Great <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> now reigning, hath given me at preſent of his amity, and the ſincerity that I have always found in the word of this Prince, have oblig'd me to ſend Forces to aſſiſt him in finiſhing
+<pb n="46" facs="tcp:35698:28"/> the Conqueſt of <hi>Ireland;</hi> my own in<g ref="char:EOLhyphen"/>tereſt alſo exciteth me to afford him this ſupply againſt King <hi>James,</hi> ſince the later deſign'd to exclude the Prin<g ref="char:EOLhyphen"/>ceſſes his Daughters and their off-ſpring from the Crown, to transfer it to a ſtranger whoſe extraction is unknown; but I would willingly aſſiſt the King of <hi>England,</hi> without leaving the King of <hi>France,</hi> who conſidering his preſent circumſtances will not be offended as he would have been heretofore at the aid that I have ſent into <hi>Ireland,</hi> ſince he is now as Meek as he was haughty in times paſt.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Beware of the French diſeaſe; for that of England had its original in France.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="25" type="section">
+               <head>XXV.</head>
+               <p>The King of <hi>Poland,</hi> being ſuffi<g ref="char:EOLhyphen"/>ciently diſguſted at <hi>France,</hi> when he had caus'd the <hi>Sieur Granville</hi> to de<g ref="char:EOLhyphen"/>part out of his Dominions, and having declar'd to the Queen that after the marriage of the Royal Prince his Son,
+<pb n="47" facs="tcp:35698:28"/> with the Princeſs of <hi>Nieubourg,</hi> he would no longer hearken to the Mi<g ref="char:EOLhyphen"/>niſters of <hi>France,</hi> thô they were able even to beſtow on him the ſame fa<g ref="char:EOLhyphen"/>culty as <hi>Midas</hi> had heretofore of turn<g ref="char:EOLhyphen"/>ing every thing he ſhould touch into Gold; came in this reſolution to con<g ref="char:EOLhyphen"/>ſult the Oracle, ſaying:</p>
+               <p>The <hi>French</hi> baits have caus'd me to loſe the high reputation that I had acquir'd before <hi>Vienna.</hi> I confeſs my weakneſs, hitherto in placing my <hi>Sum<g ref="char:EOLhyphen"/>mum bonum</hi> in a little yellow clay, which I have kept more carefully than holy Relicks; and I have often look'd on the effigies of the <hi>Louys d'Ors</hi> as a Tutelary God and the object of my happineſs. However I now begin to underſtand, that theſe material goods are but froth in compariſon of the worth of real glory, which alone can ſet my Son on the Throne. I know that the taking of <hi>Caminiec</hi> can at pre<g ref="char:EOLhyphen"/>ſent contribute more thereto, than all the treaſure of <hi>France;</hi> but on this occaſion my Allies have at leaſt this conſolation, that I have taken more from the <hi>French</hi> than from the <hi>Turks,</hi>
+                  <pb n="48" facs="tcp:35698:29"/> and that to exhauſt is to weaken. That War can be but of little moment, where the danger and the honour are not great; therefore for the future after the example of <hi>Hannibal,</hi> I ſhall turn to the ſide of glory, as ſoon as the mar<g ref="char:EOLhyphen"/>riage of the Royal Prince with the Princeſs of <hi>Nieubourg</hi> ſhall be accom<g ref="char:EOLhyphen"/>pliſh'd; and to that end I have ſtopt my ears againſt all the <hi>Syrens</hi> of <hi>France,</hi> ſince I obſerve that their King will have enough to do to preſerve his Crown for his own Son, and that the Emperor alone can eſtabliſh mine on the head of my heir: I am come hither to receive your wholſom Coun<g ref="char:EOLhyphen"/>ſel.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Endeavour thy ſelf by thy own va<g ref="char:EOLhyphen"/>lour to ſecure the Crown for thy poſte<g ref="char:EOLhyphen"/>rity.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="26" type="section">
+               <head>XXVI.</head>
+               <p>The King of <hi>Portugal,</hi> after his Alliance with the Houſe of <hi>Nieubourg,</hi> thought himſelf alſo oblig'd to im<g ref="char:EOLhyphen"/>brace the intereſt of the Empire, and
+<pb n="49" facs="tcp:35698:29"/> the common cauſe of his Allies, but the <hi>French</hi> (who are alwais pregnant of politic contrivances) forſeeing that this marriage eſpecially at this preſent juncture of affairs, might alienate that Kingdom from their intereſts, to amuſe the <hi>Portugueſe</hi> Court propoun<g ref="char:EOLhyphen"/>ded another between their <hi>Infanta</hi> and the <hi>Dauphin,</hi> and that the iſſue of that Bed ſhould ſucceed to the Crown of <hi>Portugal,</hi> on condition neverthe<g ref="char:EOLhyphen"/>leſs that the King of <hi>Portugal</hi> ſhould declare War againſt <hi>Spain,</hi> and that <hi>France</hi> ſhould bear a part of the charge; wherefore his <hi>Portugueſe</hi> Ma<g ref="char:EOLhyphen"/>jeſty in this perplexity went to con<g ref="char:EOLhyphen"/>ſult the Oracle, and ſpake thus:</p>
+               <p>The Miniſters of <hi>France</hi> continually repreſent to me how much both my Predeceſſor and my ſelf have been oblig'd to them on the account of the <hi>Pyrenean</hi> peace, inſinuating that the Grandeur of <hi>Spain</hi> might here<g ref="char:EOLhyphen"/>after produce my abaſement, but they would furniſh me with means in this conjuncture whereby to deliver my ſelf from all pretenſions that that Court might make to my Countrey
+<pb n="50" facs="tcp:35698:30"/> for the future. Now ſince I have an oppertunity to ſerve <hi>France</hi> with my Commerce, to remain neuter, and to procure the Traffic of the other Princes engaged in War; why ſhould I not improve it to the enriching of my Subjects by furniſhing the <hi>French</hi> with all manner of ammunitions that they ſhall want in this preſent War?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Thou doſt not yet know the force of <hi>Spiritus Gall.</hi>
+                        </p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="27" type="section">
+               <head>XXVII.</head>
+               <p>The Grand <hi>Signior</hi> after ſo many loſſes, notwithſtanding his affiance in <hi>Mehemet Raſoul,</hi> and after the return of his <hi>Derviſhes</hi> from <hi>Mecca,</hi> not knowing any longer to which Saint of the <hi>Alcoran</hi> to make his addreſſes, determin'd to go and conſult the Ora<g ref="char:EOLhyphen"/>cle, and to try if he could there find any hopes of deliverance: Being ar<g ref="char:EOLhyphen"/>riv'd at the Sacred cave, he ſpake after this manner:</p>
+               <p>I have offer'd to the Emperor of the Chriſtians, my enemy, all that my
+<pb n="51" facs="tcp:35698:30"/> Law allows me to give (notwith<g ref="char:EOLhyphen"/>ſtanding the perſwaſions of <hi>France</hi>) without being able to obtain any thing. I have loſt my beſt <hi>Janizaries</hi> in bat<g ref="char:EOLhyphen"/>tel, and my <hi>Derviſhes</hi> are weary with crying throughout all the Moſques; my Treaſures are exhauſted, and my People raiſe commotions in divers Places, demanding Peace: The Wo<g ref="char:EOLhyphen"/>men with Child miſcarry at the ap<g ref="char:EOLhyphen"/>proach of the uncircumciſed; and I durſt not venture to return to <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> with out a peace. The Cham of <hi>Tartary</hi> indeed hath pro<g ref="char:EOLhyphen"/>mis'd to come to my aſſiſtance, and the great Sultan of <hi>France</hi> to pay him, and that he will ſend the young Sultan, his Son, to the River <hi>Rhine,</hi> to compel the Chriſtians to depart out of my Dominions, but eſpecially he that will never make Peace till all my Territo<g ref="char:EOLhyphen"/>ries that I have loſt in <hi>Hungary</hi> be reſtor'd to me, provided that I maintain the War as long as he; But my Forces are broken, the enemy ſtands at my gates, and I am continually terrified with great alarms, being doubtful whether I ought to give credit to this
+<pb n="52" facs="tcp:35698:31"/> Sultant that bears the name of Chriſtian. He hath often abus'd me, and the neceſſity of my affairs hath hitherto forc'd me to hearken to him. He proffers to ſwear by my <hi>Alcoran</hi> that he will keep his word; but ſince all his promiſes have had no effect, what reſolution ſhall I take, and on whom ſhall I relye?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>On thy own Forces.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="28" type="section">
+               <head>XXVIII.</head>
+               <p>The Deputies of the States General of the United Provinces, being come to conſult the Oracle, ſaid:</p>
+               <p>It was neceſſary for the ſecurity of our State, to ſet the Prince of <hi>Orange</hi> on the Throne of Great <hi>Britain,</hi> to ſecure us from the threats of <hi>France;</hi> and the aſſurance that the count d'<hi>A<g ref="char:EOLhyphen"/>vaux</hi> gave us of a ſtrict alliance be<g ref="char:EOLhyphen"/>tween the two Kings, hath open'd our eyes, to the end that we might take away from the King of <hi>France</hi> the means of being able to hurt us. We have by our own aid diſengag'd our<g ref="char:EOLhyphen"/>ſelves
+<pb n="53" facs="tcp:35698:31"/> from a very great incumbrance and perplexity, and by placing the Prince on the Throne, we have well provided for our ſafety for the future, by that indiſſoluble Union that will alwaies be maintain'd between the two States; but ſince all things in this ſublunary World are ſubject to va<g ref="char:EOLhyphen"/>riety of changes and revolutions, what courſe muſt we take to preſerve that high reputation which we have ac<g ref="char:EOLhyphen"/>quir'd to our ſelves in <hi>Europe.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Be alwaies Maſters of your own Forces.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="29" type="section">
+               <head>XXIX.</head>
+               <p>The moſt Serene Doge of <hi>Venice,</hi> being ready to return laden with the Laurels and Trophies of his Victories, was extremely glad of an oppertunity to conſult the Oracle, and ſaid:</p>
+               <p>The moſt Serene Republic having been hitherto the terror of the Infidels, hath compell'd her haughty enemy to ſue for a Peace, but the advantage of
+<pb n="54" facs="tcp:35698:32"/> have a Pope deſcended from her own loins, obliges her to continue the War, and not to ſeparate from her Allies, thô <hi>Poland</hi> ſtands as an idle Spectator; therefore it is time to think of a Peace, and ſo much the rather, by reaſon that a great fire is kindl'd in the neighbourhood of this Republic, that is capable of inflaming all <hi>Italy,</hi> if it be not ſoon prevented. What is moſt requiſite to be done on this occa<g ref="char:EOLhyphen"/>ſion?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Make Peace, and return from the fartheſt to ſuccour the neareſt.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="30" type="section">
+               <head>XXX.</head>
+               <p>The Duke of <hi>Savoy,</hi> having for ſome time amus'd the King of <hi>France,</hi> who only ſought to ſeize on his Countrey, and having thoroughly penetrated into the ſubtil intreagues as well as the danger in which he was involv'd by confiding in the <hi>French,</hi> remembred the example of the Duke of <hi>Lorrain,</hi> and reſolv'd to take new meaſures contrary to the intereſt of
+<pb n="55" facs="tcp:35698:32"/> 
+                  <hi>France,</hi> and ſuch as were only able to ſecure his preſervation; for the better purſuing of which he thought fit to conſult the Oracle, and coming to the Temple, ſpake thus:</p>
+               <p>It was generally believ'd that I was ſo ſtrictly united to <hi>Franc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi> that I durſt not ſeparate my ſelf, nor under<g ref="char:EOLhyphen"/>take any thing without the conſent of their King, but the event hath ſhewn the contrary, and that I knew my own true intereſt as well as the King's in<g ref="char:EOLhyphen"/>tentions; but if I have diſſembl'd for ſome time, it was only that I might ſeek myown advantage and to engage my Allies; neither the tears of the Royal Dutcheſs, nor the fair promiſes of the Duke of <hi>Orleans<g ref="char:punc">▪</g>
+                  </hi> could prevail with me to alter my reſolution, nor never ſhall; the bowl is caſt and can<g ref="char:EOLhyphen"/>not return again, for if I had receiv'd the <hi>French</hi> troops into the Citadel of <hi>Turin,</hi> I ſhould have had nothing elſe to do but to go and keep my Country-houſe in <hi>France</hi> with the Prince of <hi>Utopia;</hi> but not being willing for the future to depend on any but God and my Sword, I have made it appear to
+<pb n="56" facs="tcp:35698:33"/> the whole World that I'm Maſter with<g ref="char:EOLhyphen"/>in my own Dominions, by the return of my Subjects of <hi>Piedmont</hi> into their Valleys; and without delay I have embrac'd the common cauſe of the Emperor and his Allies, who will not abandon me, nor invade my Terri<g ref="char:EOLhyphen"/>tories: And if the Cantons of <hi>Switzer<g ref="char:EOLhyphen"/>land</hi> would do the ſame, and ſhake off the yoak of <hi>France,</hi> we ſhould find employment for their Monarch on the ſide of <hi>Dauphine.</hi> I am come hither to know what ſucceſs will at<g ref="char:EOLhyphen"/>tend me.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>
+                           <hi>Pignerol</hi> ſhall open its Gates to thy good fortune.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="31" type="section">
+               <head>XXXI.</head>
+               <p>The Cantons of <hi>Switzerland</hi> being amaz'd at the ſuddain change that hap<g ref="char:EOLhyphen"/>pen'd in their neighbourhood, deputed ſoveral perſons on the behalf of the <hi>Helvetian</hi> States to be inform'd by the Oracle of future contingencies, who being arriv'd at the Sacred Den, ſpake to this effect:</p>
+               <pb n="57" facs="tcp:35698:33"/>
+               <p>We have ſeen a great light in our Neighbourhood, and have rejoyc'd in the brightneſs thereof: The recalling of the <hi>Vaudois,</hi> and the Declaration of the Duke of <hi>Savoye</hi> in favour of the Emperor and his Allies, hath caus'd our heart to leap for joy; moreover, we never receiv'd ſo many careſſes from <hi>France,</hi> only to perſwade us to remayn neuter, but they do not as yet offer to demoliſh the Fortreſs of <hi>Hunninguen;</hi> however if they do not ſet about it ſpeedily, we ſhall open a paſſage for the <hi>Germans,</hi> thô as yet we divide a little ſpot of ground with the King of <hi>France;</hi> but foraſmuch as there is nothing now to be fear'd, and ſince he can no longer bite; if he do not himſelf begin to diſmantle this Place, we will apply our Batteries thereto: We are in good earneſt brave <hi>Switzers,</hi> and will not be mock't for the future, they muſt now deal plainly with us and ſet their hand to the work: their <hi>Louys d'Ors</hi> are good, but ſomewhat more muſt be done at this time, ſince ours are now more currant money, for by the vertue of
+<pb n="58" facs="tcp:35698:34"/> 
+                  <hi>hocus pocus Monſieur Amelot</hi> takes us for Block-heads, and thinks to gull us as he hath done heretofore, but we have no mind to let ſlip this opportu<g ref="char:EOLhyphen"/>nity, and we will act our part before the Farce be ended: We are heavy and corpulent, therefore we march ſtowly. In the mean time what ſhall we do?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Follow the light that goes before you.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="32" type="section">
+               <head>XXXII.</head>
+               <p>The Republic of <hi>Genoa,</hi> being very glad to ſee ſo many dogs ſet on the wolf, and all the Powers of <hi>Europe</hi> combin'd againſt <hi>France,</hi> the moſt formidable enemy that ſhe ever had; ſent to conſult the Oracle to know what ought to be done in this con<g ref="char:EOLhyphen"/>juncture, ſaying:</p>
+               <p>The whole World hath ſeen the ſubmiſſion that we have been forc'd to make to the King of <hi>France,</hi> after he had bombarded our City: we have been conſtrain'd to kiſs the rod with which we were ſcourg'd without mur<g ref="char:EOLhyphen"/>muring;
+<pb n="59" facs="tcp:35698:34"/> and the Senate hath been o<g ref="char:EOLhyphen"/>blig'd to go in a body to <hi>Verſailles,</hi> to thank the King for his great juſtice; but we hope that the time is now come wherein Heaven will avenge us on them, and that the Allies will cauſe reparation to be made for the Dam<g ref="char:EOLhyphen"/>mage that we have ſuſtain'd. What means ſhall we now uſe to take ſome ſatisfaction our ſelves of our conceal'd enemy?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Let not thine inhabitants furniſh him with armes to beat thee.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="33" type="section">
+               <head>XXXIII.</head>
+               <p>The late King <hi>James,</hi> being o<g ref="char:EOLhyphen"/>blig'd to abandon his Kingdoms a ſecond time, and to depart out of <hi>Ireland;</hi> and not knowing what Saint to invocate, nor of what mate<g ref="char:EOLhyphen"/>rials to make weapons in <hi>France,</hi> where the unfortunate are not at all welcome, went very mournfully to conſult the Oracle, and ſaid:</p>
+               <p>I now acknowledge my fault, and that my misfortunes have had their
+<pb n="60" facs="tcp:35698:35"/> original only from the wicked inſtiga<g ref="char:EOLhyphen"/>tions of the Queen my Wife, and her pernicious Counſels, that induc'd me to ſeek for means to make my ſelf ab<g ref="char:EOLhyphen"/>ſolute by vertue of an Arbitrary power independant of the Statutes of the Realm and authority of Parliaments; and to aboliſh the Teſt and Penal Laws: This model came from <hi>France,</hi> and hath lead me to the precipice and to this unhappy Labyrinth: My Peo<g ref="char:EOLhyphen"/>ple could not endure neither an alte<g ref="char:EOLhyphen"/>ration in Religion, nor in the Succeſ<g ref="char:EOLhyphen"/>ſion of the Crown, but ſent for a Competitor, who eaſily got poſſeſſion of my Kingdoms, without hopes that I ſhall ever be able to reenter therein as long as he ſhall live. The greateſt part of my Subjects have forſaken me, and my Friends durſt not ſo much as lift up their head: My Forces have abandon'd me, and they of my own Family have turn'd their backs on me. Thus am I left deſtitute in the hands of the <hi>French,</hi> reduc'd to the neceſſity of imploring their aid, and of making a moſt lamentable figure; not know<g ref="char:EOLhyphen"/>ing whither to betake my ſelf when
+<pb n="61" facs="tcp:35698:35"/> the King of <hi>France</hi> ſhall be weary of me. Alaſs! will my baniſhment from my Kingdoms continue much longer?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Until thy Succeſſor ſhall have a mind to abrogate the Laws, as thou haſt done.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="34" type="section">
+               <head>XXXIV.</head>
+               <p>The Queen <hi>Jacomina,</hi> having ſeen with much conſternation the return of the King, her Husband, to Saint <hi>Germain,</hi> went accompanied with Father <hi>Peters</hi> and the little Urchin, her Son, to the Temple of the Oracle to know the reaſon thereof, and ſpake thus:</p>
+               <p>I have been alwaies very exact in my devotions to our Lady of <hi>Loretto,</hi> and have made many vowes to her, to the end that I might re-enter into my Kingdom; nevertheleſs we are ſo far from approaching it, by the way of <hi>Ireland,</hi> as the King of <hi>France</hi> vainly promis'd, that we are now driven back farther than ever, by the retreat of the King, who hath been totally de<g ref="char:EOLhyphen"/>feated
+<pb facs="tcp:35698:36"/> feated with his Army at the firſt ſhock of our enemies. Whence to ſo many misfortunes proceed that have happen'd to us in this World?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>From thy ſelf.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="35" type="section">
+               <head>XXXV.</head>
+               <p>Father <hi>Peters,</hi> having entreated the Queen to permit him to ſpeak in his turn, ſaid:</p>
+               <p>I have inceſſantly labour'd day and night for the good of the Society, and conſidering that a Prince of <hi>Wales</hi> created by our hand, might hereafter be a very powerful inſtrument for the propagation of the Catholic Faith, and the encreaſing of our Revenues in <hi>England,</hi> our good Lady of <hi>Loretto</hi> hath by a miracle brought this Prince to light, which was very neceſſary to protect us after the King's death; none but the Society know the depth of this Myſtery; but in the mean time ſome ſpiteful perſon dis-affected to our intereſt, having diſcover'd the mine, brought the ſtorm on the King's per<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:35698:36"/> and all the Royal Family, and at the ſame time on our Holy Society; thus to avoid expoſing our ſelves to the mercy of the Conqueror, we were compell'd to follow the fortune of the King and Royal Family, by retiring into a place of ſafety, to the end that by our Prayers we might be able to merit our return into <hi>England,</hi> as ſoon as poſſibly it can be effected, for the conſolation of the party that we have left there, and which impatiently ex<g ref="char:EOLhyphen"/>pects our coming. Shall we be ſpee<g ref="char:EOLhyphen"/>dily re-eſtabliſh'd? for we are all ready to repaſs the Sea.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Immediately ſend for all that thou haſt left there.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="36" type="section">
+               <head>XXXVI.</head>
+               <p>The Cardinal of <hi>Fuſtemberg,</hi> having loſt all hopes of obtaining the Electo<g ref="char:EOLhyphen"/>rate, and having turn'd that Arch-Bi<g ref="char:EOLhyphen"/>ſhopric into an Abbacy; went full of deſpair to conſult the Oracle, and ſaid:</p>
+               <p>I have fooliſhly neglected the op<g ref="char:EOLhyphen"/>portunity
+<pb n="64" facs="tcp:35698:37"/> of advancing my fortune, ha<g ref="char:EOLhyphen"/>ving voluntarily renounc'd my right of Coadjutorſhip to the Arch-Biſhopric of <hi>Colen;</hi> I have converted the money that I receiv'd from <hi>France</hi> to procure me friends to a very different uſe, and not doubting but that I ſhould cer<g ref="char:EOLhyphen"/>tainly accompliſh my deſign, I ſpent it in treating my dear Niece, who by her fond careſſes caus'd me to imitate the Crow in the Fable, and that which torments me moſt of all is, that the matter is irrecoverable, ſince the Holy See hath again ratified all that was done in this affair, and that my Competitor is younger than I: Thus my fortune is limitted within the nar<g ref="char:EOLhyphen"/>row bounds of the Abbey of Saint <hi>Germain,</hi> However, the King gives me hopes of obtaining an Arch-Bi<g ref="char:EOLhyphen"/>ſhopric in his Kingdom, to ſweeten the remorſe that I might have for betraying my own lawful Soveraign; but I cannot relye upon it. The fear of ſome foul and unexpected chaſtiſe<g ref="char:EOLhyphen"/>ment caus'd me to withdraw from <hi>Rome incognito,</hi> to take ſhelter under the Culverins of the great <hi>Lewes;</hi> but
+<pb n="65" facs="tcp:35698:37"/> in regard that the unfortunate are never welcome at the <hi>French</hi> Court, I can make but a ſorry figure, and it will be yet ſo much the worſe, if the Emperor and his Allies ſhould gain any conſiderable advantages over <hi>France,</hi> for then I might ſerve as a Victime to a Peace, not knowing whither to flye, ſince all <hi>Europe</hi> only deſires my ruin. Thus on whatſoever ſide I turn, I can ſee nothing but croſſes and tribulation ready to attend me. I am come therefore to know my deſtiny.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>It will follow the fortune of thy new Maſter.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="37" type="section">
+               <head>XXXVII.</head>
+               <p>The King of <hi>Siam,</hi> being diſen<g ref="char:EOLhyphen"/>gag'd from the <hi>French</hi> and the Jeſuits went to conſult the Oracle, and ſaid:</p>
+               <p>my Predeceſſor was much addicted to the <hi>French</hi> that were brought to <hi>Siam</hi> by the Jeſuits, who having
+<pb n="66" facs="tcp:35698:38"/> made themſelves in a manner neceſſa<g ref="char:EOLhyphen"/>ry by the profeſſion of the Mathema<g ref="char:EOLhyphen"/>tics and Aſtrology, with the ſtudy whereof they had amus'd him, ſoon inſinuated themſelves into his favour, and by that means got poſſeſſion of the moſt principal Places in his Domi<g ref="char:EOLhyphen"/>nions, with a proſpect of becoming at length Maſters of the whole King<g ref="char:EOLhyphen"/>dom; deſigning to ſet one of their own Creatures on the Throne, and to ſeize on our Golden Gods that attract all their admiration, neither would they have preach'd there Reli<g ref="char:EOLhyphen"/>gion here, but to that end; however having perceiv'd their ſubtilty with the advice of my chief <hi>Mandarins</hi> I got rid of them, as alſo of their principal abetters and adherents. After the King's Death I took poſſeſſion of the Kingdom, leſt it ſhould fall to<g ref="char:EOLhyphen"/>gether with our Gods into the hands of the <hi>French;</hi> I am not ignorant that their King will make preten<g ref="char:EOLhyphen"/>ſions againſt me, but I fear him not as long as I can maintain an Alliance and good correſpondence with the <hi>Hollanders,</hi> my neighbours; at leaſt
+<pb n="67" facs="tcp:35698:38"/> if they do not come to demand the preſents that they gave to my Prede<g ref="char:EOLhyphen"/>ceſſor, and to <hi>Conſtantius</hi> his chief Miniſter of State, who was the inſtru<g ref="char:EOLhyphen"/>ment of all their deſigns, and the wheel that ſet the engine of the Je<g ref="char:EOLhyphen"/>ſuits on motion; but the firſt that ſhall preſume to enter into my King<g ref="char:EOLhyphen"/>dom, I will deliver as a prey to the wild Beaſts; for I can no longer ſuffer ſuch vermin in my Dominions.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Be alwaies Maſter.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="38" type="section">
+               <head>XXXVIII.</head>
+               <p>The Republic of <hi>Geneva,</hi> being deliver'd from thoſe terrible alarms that the King of <hi>France</hi> continually caus'd in their neighbourhood, on the occaſion of the marching of that vaſt number of the enemies againſt whom he is now engag'd, and of the great War in which he is involv'd; ſent two Syndics to conſult the Oracle in the name of the whole City, who ſpake after this manner:</p>
+               <pb n="68" facs="tcp:35698:39"/>
+               <p>Our condition being alter'd, and the tempeſtuous Storm having paſs'd over our Heads, he that ſo lately threatn'd us, begins now to careſs us; thus we breath in a clear and wholſom air, and we may certainly affirm that King <hi>William</hi> is a great Phyſitian, and that his moſt efficacious remedies operate at a very great diſtance; but for aſmuch as in all diſtempers, relapſes are very dangerous, by what means ſhall we preſerve the good health that we now enjoy?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>By the vertue of <hi>Spiritus Angliae.</hi>
+                        </p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="39" type="section">
+               <head>XXXIX.</head>
+               <p>The City of <hi>Hambourgh,</hi> being oblig'd to publiſh the Emperor's <hi>Avo<g ref="char:EOLhyphen"/>catoria,</hi> was not a little diſguſted, and in this perplexity ſent two Licenciats to conſult the Oracle, who ſpake in the name of their Principals, ſaying:</p>
+               <p>We hoped that all our neighbours being engag'd in War, we might have monopoliz'd the greateſt part of
+<pb n="69" facs="tcp:35698:39"/> their Traffic by the means of a neu<g ref="char:EOLhyphen"/>trality; but ſince jealouſy often creates violence, inſomuch that we have found an embrago laid on all our Veſſels in <hi>England.</hi> with the Emperor's conſent, we have been compell'd to ſubmit to the <hi>Avocatoria,</hi> and to cauſe the <hi>French</hi> Reſident to depart from our Tertitories; but the King may clearly ſee that we have been conſtrain'd thereto to avoid the ruin of our inha<g ref="char:EOLhyphen"/>bitants; for the King of <hi>England</hi> who knows not how to dally, perſiſts in obligng us to obſerve the <hi>Avocato<g ref="char:EOLhyphen"/>ria.</hi> Thus we are perplex'd being depriv'd of our Commerce with <hi>France,</hi> and not knowing what party to adhere unto in this Conjuncture.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Follow the ſtrongeſt.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="40" type="section">
+               <head>XL.</head>
+               <p>The Princes of the Houſe of <hi>Lu<g ref="char:EOLhyphen"/>nembourg</hi> ſpake thus to the Oracle.</p>
+               <p>We have had no regard to all the offers of <hi>France,</hi> and they could not
+<pb n="70" facs="tcp:35698:40"/> hinder us from cleving to the in<g ref="char:EOLhyphen"/>tereſt of the common Cauſe of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> and from furniſhing our Allies with Troops, notwithſtanding the vaſt ſummes of money offer'd to us by the moſt Chriſtian King to prevent it, but we have no mind to be har<g ref="char:EOLhyphen"/>raſs'd; we would act as we think fit, and be Maſters of our own Forces; we would willingly aſſiſt our Allies, and eſpecially the King of <hi>England,</hi> for whoſe valour we have a particu<g ref="char:EOLhyphen"/>lar eſteem, as our Friend and true Ally, and we are ready to concur in any thing to the utmoſt of our Power that may tend to his ſatisfaction.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Glory and Victory flye before him, and Heaven is his Protector.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="41" type="section">
+               <head>XLI.</head>
+               <p>The Marqueſs <hi>de Gaſtanaga,</hi> Go<g ref="char:EOLhyphen"/>vernor of the <hi>Spaniſh Neitherlands,</hi> af<g ref="char:EOLhyphen"/>ter the Battel of <hi>Fleury,</hi> fearing leſt the enemies might invade <hi>Flanders,</hi> went immediately to conſult the Oracle, and ſaid:</p>
+               <pb n="71" facs="tcp:35698:40"/>
+               <p>May the Heavens protect us in this Conjuncture, for if the <hi>Hollanders</hi> ſhould retreat, my Maſter's Countrey is loſt, and if the <hi>French</hi> ſhould enter therein, they would ſpare neither Virgin, nor Saint, nor the moſt Sa<g ref="char:EOLhyphen"/>cred Relicks. I have caus'd ſeveral Maſſes to be celebrated, and have made ſeveral vows for the proſperity of the King's A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms, but I hope that when the King of Great <hi>Britain</hi> ſhall come, he will defend us from all di<g ref="char:EOLhyphen"/>ſaſters, with the aid of our good Lady of <hi>Hal.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Help thy ſelf, and the Gods ſhall aſſiſt thee.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="42" type="section">
+               <head>XLII.</head>
+               <p>The Prince of <hi>Waldeck,</hi> after the ſame Battel of <hi>Fleury,</hi> was alſo very glad of an oppertunity to conſult the Oracle on this occaſion, ſaying:</p>
+               <p>I have been unfortunate in the laſt Battel, althô at the ſame time the <hi>French</hi> have no reaſon to boaſt; I
+<pb n="72" facs="tcp:35698:41"/> did what I could, nevertheleſs I know that I am not reſpected by the People. Men give Battel, but the event comes from Heaven, whence then proceeds my misfortune?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Conſult thy ſtrength and thy age, and be a friend to Spies.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="43" type="section">
+               <head>XLIII.</head>
+               <p>The Kingdom of <hi>Algers,</hi> ſent two of their <hi>Reys</hi> that belong to Sea af<g ref="char:EOLhyphen"/>fairs to conſult the Oracle, who ſaid:</p>
+               <p>The <hi>French</hi> have Bombarded our City, but it hath coſt them dear, they are come to demand a Peace, and have appli'd a Golden plaiſter to our Wound, and if we may believe them, we have no better friend than their King; ſhall we give them credit?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>There is no great difference between one <hi>Corſair</hi> and another.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="44" type="section">
+               <pb n="73" facs="tcp:35698:41"/>
+               <head>XLIV.</head>
+               <p>The <hi>Czars</hi> of <hi>Moſcovy,</hi> having enter'd upon no conſiderable Action againſt the <hi>Turks</hi> ſince their Declara<g ref="char:EOLhyphen"/>tion of War, notwithſtanding all the Aſſurances given by their Ambaſſa<g ref="char:EOLhyphen"/>dors whom they ſent into all the Courts of <hi>Europe,</hi> came both toge<g ref="char:EOLhyphen"/>ther to conſult the Oracle, ſaying:</p>
+               <p>We have declar'd War againſt the <hi>Turks,</hi> and altho' we have demanded Supplies of all the Chriſtian Princes, yet none comes to our Aſſiſtance, in<g ref="char:EOLhyphen"/>ſomuch that we are oblig'd to main<g ref="char:EOLhyphen"/>tain this great War at our own Charg<g ref="char:EOLhyphen"/>es; if this continues we ſhall be compell'd to make a Peace.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Ye ſhall do no great good, nor no great harm.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="45" type="section">
+               <pb n="74" facs="tcp:35698:42"/>
+               <head>XLV.</head>
+               <p>The Reverend Society of the Jeſu<g ref="char:EOLhyphen"/>its deputed Father <hi>La Chaiſe,</hi> and a<g ref="char:EOLhyphen"/>nother <hi>Engliſh</hi> Father lately come from <hi>England,</hi> to go and conſult the Oracle in the Habit of <hi>Cavaliers,</hi> leſt they ſhould meet with any of King <hi>William</hi>'s Troops on the Road; where they were no ſooner arriv'd, but they very confidently enter'd into the Temple, and ſaid:</p>
+               <p>Our Society is eſteem'd as the Pil<g ref="char:EOLhyphen"/>lar of the Catholick Church, for with<g ref="char:EOLhyphen"/>out it, it would have fallen in ſeve<g ref="char:EOLhyphen"/>ral places, and by our interceſſion we obtain'd a Catholick Succeſſor in <hi>England;</hi> nevertheleſs the Sins of Men have caus'd Hereſie to prevail for a time, but we are not diſcou<g ref="char:EOLhyphen"/>rag'd, our Party always ſubſiſts there, and another Revolution may put us in poſſeſſion of what we have loſt.</p>
+               <p>The City of <hi>Geneva</hi> was very near falling into our hands, and we had already reckon'd it in the number of our Conqueſts: It hath indeed e<g ref="char:EOLhyphen"/>ſcap'd
+<pb n="75" facs="tcp:35698:42"/> out of the King's Power, but a fair opportunity pretermitted is not irrecoverable. We have had better ſucceſs with the Emperor, and have hitherto hinder'd him from making a Peace with the <hi>Turks.</hi>
+               </p>
+               <p>The Martyrdoms that our Society hath ſuffer'd in <hi>England</hi> and <hi>China,</hi> caus'd us juſtly to hope that we ſhould have been regarded by the Holy See, but it ſeems all our Pains and Zeal for the propagation of the Faith can<g ref="char:EOLhyphen"/>not as yet merit the eſteem of the <hi>Venetians,</hi> which hath in all times been of very bad conſequence to us, with reſpect to the Hereticks; but if we can hope for no great matter on that ſide, we may expect much from the Moſt Chriſtian King, who pro<g ref="char:EOLhyphen"/>miſeth to himſelf a happy Iſſue of this War, thro' the interceſſion of the grand Saint <hi>Ignatius,</hi> and the Prayers of the whole Society. We have en<g ref="char:EOLhyphen"/>tirely devoted our ſelves to <hi>France,</hi> the King of <hi>Spain</hi> being a Saint that at preſent can do us neither good nor harm. We had reaſon to hope for much, from the King and Queen of
+<pb n="76" facs="tcp:35698:43"/> 
+                  <hi>England,</hi> if Fortune had not been unkind to them; but the whole Soci<g ref="char:EOLhyphen"/>ety labours for their Reſtauration. Wilt thou therefore Re-eſtabliſh them and us by their means?</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>It is impoſſible to riſe again after ſo great a fall.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="46" type="section">
+               <head>XLVI.</head>
+               <p>The Right Reverend the Clergy of <hi>France,</hi> being aſſembled together, intended to depute the Arch-Biſhop of <hi>Paris</hi> to go and conſult the Oracle, but when he was enjoin'd to ſpeak the Truth, he deſir'd to be excus'd, by reaſon that the King had promis'd him the firſt nomination to a Cardi<g ref="char:EOLhyphen"/>nal's Cap, and therefore being under ſuch Circumſtances he durſt not diſ<g ref="char:EOLhyphen"/>oblige his Majeſty, whereupon they ſoon appointed the Biſhop of <hi>Greno<g ref="char:EOLhyphen"/>ble</hi> in his room to diſcharge that Of<g ref="char:EOLhyphen"/>fice, who being arrived at the Sacred Den, ſpake to this effect,</p>
+               <pb n="77" facs="tcp:35698:43"/>
+               <p>I am come hither on the behalf of the moſt conſiderable Aſſembly in <hi>Europe,</hi> I mean the Clergy of <hi>France,</hi> and of the <hi>Gallicane</hi> Church, to pour out our juſt Complaints into your Bo<g ref="char:EOLhyphen"/>ſom. The King in taking away our Revenues draws the moſt pure Blood out of our Veins by continual Taxes and Gratuities beyond our Ability; and by a prodigious Uſurpation, this Monarch hath lately taken from us all the Ornaments of Gold and Silver belonging to the Sanctuary, without the conſent of our Holy Father the Pope, under pretence of a War to be proſecuted againſt the Hereticks, and of the Re-union of the <hi>Hugenots</hi> of his Kingdom with the Church; inſiſting moreover, that he hath been oblig'd to disburſe vaſt Sums of Mo<g ref="char:EOLhyphen"/>ney in maintaining the Royal Miſſion that hath brought in great Revenues to the Church: But that which moſt affects the Conſcience of our Prelates is, that they muſt believe every thing that the King requires them, and ac<g ref="char:EOLhyphen"/>commodate their Faith according to the Affairs that intervene between
+<pb n="78" facs="tcp:35698:44"/> the Court of <hi>France</hi> and that of <hi>Rome.</hi> It would be great matter of Joy, if by your wholſome Counſels this Venerable Aſſembly might be de<g ref="char:EOLhyphen"/>liver'd from all theſe Vexations, that we may peaceable enjoy our Benefi<g ref="char:EOLhyphen"/>ces, and not be compell'd to believe any thing but what are commanded by our Holy Mother the Church.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Your Kings pretend that Religion may be adapted to their Ambition.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="47" type="section">
+               <head>XLVII.</head>
+               <p>The Catholicks of <hi>England</hi> in their Exile went to conſult the Ora<g ref="char:EOLhyphen"/>cle, to know their Deſtiny, ſay<g ref="char:EOLhyphen"/>ing:</p>
+               <p>We thought that as ſoon as our Zealous Monarch had aſcended his Brother's Throne, the time of our Reſtauration was at hand, and that af<g ref="char:EOLhyphen"/>ter a tedious Captivity, we ſhould have re-enter'd upon the poſſeſſion of
+<pb n="79" facs="tcp:35698:44"/> all our Rights and Prerogatives: The Reverend Fathers the Jeſuits gave us great hopes thereof; but by a ſtrange Revolution, we find our ſelves further off than we were hither<g ref="char:EOLhyphen"/>to, and by hoiſting our Top-gallant too high, we have overſet our Veſſel at the firſt Blaſt of Wind; the Tem<g ref="char:EOLhyphen"/>peſt ſoon diſpers'd us on all ſides, like ſcatter'd Sheep, at the Mercy of Foreigners, without any proſpect of returning, at leaſt of a New Revoluti<g ref="char:EOLhyphen"/>on, which we are forc'd to wait for, without ſo rouch as being able to fore<g ref="char:EOLhyphen"/>ſee the leaſt Remedy for our Calami<g ref="char:EOLhyphen"/>ties. Alaſs! When ſhall we meet with a more favourable time.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Patience is a great Vertue.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="48" type="section">
+               <head>XLVIII.</head>
+               <p>The Marſhal <hi>de la Feuillade,</hi> ha<g ref="char:EOLhyphen"/>ving for a long time paſſionately wiſh<g ref="char:EOLhyphen"/>ed for an opportunity, freely to diſ<g ref="char:EOLhyphen"/>cloſe
+<pb n="80" facs="tcp:35698:45"/> his Mind, went to the <hi>Temple,</hi> and ſaid:</p>
+               <p>
+                  <hi>I</hi> had foretold long ago that the Prince of <hi>Orange</hi> would at length create us much trouble; but no credit was given to my Word, and for ſpeaking the Truth, <hi>I</hi> was very near being diſ<g ref="char:EOLhyphen"/>grac'd by the King, inſtead of ſerve<g ref="char:EOLhyphen"/>ing Him with my wholeſome Advice; He would no longer hearken to me, becauſe I knew not how to flatter, and I was conſtrain'd to hold my Tongue; but now that this Prince is become King of <hi>England,</hi> and hath Power in His Hand, He begins to Sing a very different Tune than he did before; and if ever He ſhould paſs over into <hi>France,</hi> we ſhall ſee Fine-work, and the <hi>Poſt</hi> will find good Employment. My Predictions were always true, that with too much ſqueezing the <hi>Orange,</hi> it would at laſt become bitter, but I was not heard; and when they ſhall be willing to give Ear, perhaps then it will be too late. Fear hath already ſeiz'd the Court, and they have ſent me to repair the old Forts in <hi>Dauphine,</hi> leſt the Prince
+<pb n="81" facs="tcp:35698:45"/> marching at the head of the <hi>Vau<g ref="char:EOLhyphen"/>dois,</hi> ſhould recover his Caſtle. The King hath charg'd me to take great care thereof, but <hi>I</hi> am very deſirous to declare my Opinion to him.</p>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <sp>
+                        <p>Thy Maſter hates the Truth.</p>
+                     </sp>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
